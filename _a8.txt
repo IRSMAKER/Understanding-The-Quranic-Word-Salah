@@ -1,0 +1,27 @@
+
+---
+
+## A8 - 22:40 - wa-salawatun (the outlier: PLACES, not states)
+
+ARABIC (flow): 22:38 "Indeed God defends those who believe; indeed God does not love every treacherous ingrate" -> 22:39 "Permission [to fight] has been given to those who are fought, because they have been wronged. And indeed God is able to give them victory" -> **22:40 "Those who have been evicted from their homes without right - only because they say: Our Lord is God. And were it not that God checks the people, some by means of others, there would have been demolished monasteries, churches, synagogues (ṣalawāt), and mosques - [places] in which the name of God is mentioned abundantly. And God will surely support those who support Him. Indeed God is Powerful, Exalted in Might"** -> 22:41 "Those who, if We give them authority in the land, establish the ṢALĀH and give the zakah and enjoin what is right and forbid what is wrong. And to God belongs the outcome of all matters" -> 22:42 "And if they deny you, then already have those before them denied: the people of Noah and 'Ad and Thamud."
+
+WORD FORM: ṣalawātun (plural of ṣalāh) - used of BUILDINGS demolished-in-counterfactual: "there would have been demolished monasteries, churches, ṣalawāt, and mosques - [places] in which the name of God is mentioned abundantly." The plural here coincides in shape with ṣalawāt of 2:157 (God's blessings) and 23:9 (the believer's ṣalawāt), but the context (demolition of buildings) makes the referent PLACES, not states.
+
+CONTEXT: MADANI, Surah al-Hajj (22). The verse sits in the fighting-passage (22:38-42): God defends the believers (22:38), permission to fight (22:39), the evicted and their protected sites (22:40), the empowered who establish the ṢALĀH (22:41), and if they deny you (22:42).
+
+GRAMMAR & LEXICON:
+- THE OUTLIER: this is the ONE occurrence of the s-l-w family where the referent is a category of PLACES. Classical tafsīr (Ibn Kathīr, Qurtubī et al.) identifies ṣalawāt here as the houses-of-prayer of the Jews (a loan word in that community's usage; the same ṣ-l-w root carries the "worship/prayer" sense in sister-Semitic languages, e.g. Syriac ṣlōtā "prayer"). So the Quran deliberately REACHES for the s-l-w word-family even when naming the prayer-houses of OTHER communities.
+- THE DEFINING CLAUSE: "yudhkaru fīhā ismu Allāhi kathīran" - "in which the name of God is mentioned MANY TIMES." Whatever the community's own naming, the Quran assigns ONE criterion: sites dedicated to the frequent MENTION of God's Name. A s-l-w-word-site = "a place assigned to standing/keeping before God's Name."
+- THE SYMMETRY: other communities get the PLURAL site-word (ṣalawāt); the believers get the SINGULAR assigned-spot (MUSSALLĀ, 2:125, C5). Same root, two site-lexemes framing "theirs" and "ours." The plural = their houses (many); the singular = our spot (one, assigned by Abraham).
+- THE LAND-GOVERNANCE FRAMING: this Ṣ-L-W word appears in a discussion of FIGHTING, EVICTION, DEFENSE OF NAME-MENTIONING PLACES, and DOMINION (22:38-42) - immediately followed by believers in power "establishing the ṢALĀH" (22:41). The ṢALĀH-word appears in a LAND-GOVERNANCE question, not a private-spirituality question. This is important for Cluster D (ṢALĀH as life-institution).
+
+PARALLELS:
+- C5 (2:125 - MUSSALLĀ, Abraham's assigned spot): the SINGULAR site-word for the believers. A8 (plural, theirs) vs C5 (singular, ours) - the root's "site" lexeme frames both communities.
+- A8's defining clause (yudhkaru fīhā ismu Allāhi kathīran) matches A19's (87:1 "glorify the Name of your Lord") and B1's (24:36 "in houses which God has permitted to be raised, in which His Name is mentioned"). The Name-mention criterion is STABLE across all three.
+- 22:41 (D32 - "if we enable them: establish the ṢALĀH...") is the direct continuation: when the believers are the ones ENABLED, the first listed act is establishing the ṢALĀH. The site-word (A8) and the state-word (D32) are paired in the same passage.
+
+FINDING: A8 proves the Ṣ-L-W family ALSO works as a lexeme-of-SITES: "assigned-to-God's-Name-mention places" for any community. The believers get the singular MUSSALLĀ (C5); other communities get the plural ṢALAWĀT (A8). The root's SITE-pole has TWO lexemes: ṢALAWĀT (their houses) and MUSSALLA (our spot). The Quran's own defining clause (yudhkaru fīhā ismu Allāhi kathīran) assigns ONE criterion: a place dedicated to the frequent MENTION of God's Name. This triangulates the root's three stable poles: SITE (space assigned to standing with the Name) - STATE (assigned standing itself, willingly kept) - DELIVERY (assigned standing, imposed).
+
+CARRIED FORWARD: (i) Test at 9:17-18 (D24) whether "mosques of God" grammar confirms the site/state interplay. (ii) At C5 (2:125) confirm MUSSALLĀ as the site-lemma. (iii) In the final document: a table of Ṣ-L-W "place" lexemes: ṢALAWĀT (22:40), MUSSALLĀ (2:125), and the negative-space of "masājid Allāh."
+
+VERDICT: studied - see A9 (36:64) next.

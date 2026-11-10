@@ -1,0 +1,2 @@
+# Understanding The Quranic Word Salah
+Method: Each verse studied in its Quranic context (surrounding verses + thematic parallels), with grammar, lexicon, and cross-referencing of every parallel formula in the Quran. Look-alike roots (وصل join/reach, صلح rectify, فصل separate, صلب crucify, etc.) were excluded after reading them. Study order: thematic clusters A→E (root-language anchors → divine ṣalāh → commanded formula → life-institutions → transformative check), canonical order within each cluster.
