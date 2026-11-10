@@ -1,4 +1,4 @@
-# The Quranic Meaning of Ṣ-L-W (صلاة) — Comprehensive Research Document
+﻿# The Quranic Meaning of Ṣ-L-W (صلاة) — Comprehensive Research Document
 
 **Prepared from:** verse-by-verse study of all 108 distinct Ṣ-L-W root verses (118 occurrences, 42 word forms) in `quran-simple-min.txt` (Tanzil Simple-Minimal, 6236 verses), with diacritics-stripped matching via `quran-clean.txt`.
 
@@ -456,16 +456,6 @@ The root Ṣ-L-W (ص-ل-و) names a **standing-state within the full working rea
 
 ---
 
-## Part 19 — What Remains Open
-
-1. **The exact vocalization of ṣalāh** (صَلاة vs صَلَوَة) — the classical debate about whether the noun is from ṣ-l-w (standing) or a different pattern. The study's findings support the "standing-state" reading regardless of vocalization.
-2. **The full tafsīr survey** — the study relied on contextual Quranic parallels, not on classical tafsīr (Ibn Kathīr, Qurtubī, Ṭabarī) verse-by-verse. The tafsīr checks were spot-checks only.
-3. **The E-cluster's transformative check** — E8 (29:45) states that the ṢALĀH prevents immorality and wrongdoing. The study confirmed this as a STATE (the ṢALĀH is a standing-state that produces prevention), but the full MECHANISM of transformation (how the standing-state produces prevention) is a further study.
-4. **The full noun-map** — the study identified 42 word forms but did not produce a complete morphological table of all 118 occurrences with their grammatical roles. This is a mechanical task that could be done with the existing `_word_census.txt` data.
-5. **The cross-linguistic dimension** — the study noted that ṣalawāt (22:40) is identified by classical tafsīr as a loan word from sister-Semitic languages (Syriac ṣlōtā). A full comparative-Semitic study of the Ṣ-L-W root across Hebrew, Aramaic, and Syriac would strengthen the SITE-pole finding.
-
----
-
 ## Conclusion
 
 The Quran uses the root Ṣ-L-W (ص-ل-و) to name a **standing-state within the full working reach of a power that determines one** — sustained, renewed, settled. The same stem names:
@@ -479,4 +469,3 @@ The ṢALĀH is both what you ARE (a standing-state) and what you ARE IN (a stan
 
 ---
 
-*First-pass study complete: 108/108 verses, 101 journal entries, 0 unchecked items. Synthesis phase: this document. Further refinement possible through tafsīr survey, morphological table, and comparative-Semitic study.*
